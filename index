@@ -1,0 +1,59 @@
+<!--
+Author: T-SEG
+Author URL: httpS://T-SEG.COM
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Antivet</title>
+	<link href="css/style.css" rel='stylesheet' type='text/css'/>
+	<link href="//fonts.googleapis.com/css?family=Alegreya+Sans" rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="Ultimate Coming Soon  Widget Responsive, Login Form Web Template, Flat Pricing Tables, Flat Drop-Downs, Sign-Up Web Templates, Flat Web Templates, Login Sign-up Responsive Web Template, Smartphone Compatible Web Template, Free Web Designs for Nokia, Samsung, LG, Sony Ericsson, Motorola Web Design" />
+		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+		<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+</head>
+<body>
+<h1> </h1>
+<div class="main-agile">
+	<main class="container">
+		<section class="examples">
+			<div class="simply-countdown-losange" id="simply-countdown-losange"></div>
+		</section>
+	</main>
+	<div class="c-bootom">
+		<img src="images/logo.png">
+		<br><br><br>
+		<br><br><br> 
+		<br><br><br> 
+	</div>
+	<div class="sign-up">
+	<br><br><br> 
+		<a href="ES/Inicio.html" method="post">
+			<input type="submit" value="Español"></a>
+		<a href="EN/Home.html">
+			<input type="submit" value="English">
+		</a>
+		
+	</div>
+
+		
+		
+	<div class="c-bootom">
+		<br><br><br>
+		<br><br><br> 
+		<br><br><br> 
+	</div>
+	<div class="sign-up">
+	<br><br><br> 
+	<a href="https://www.facebook.com/mdcdentaloficial?fref=ts"><img src="images/facebook-logo.png" style="width: 45px"></a>
+	<a href="https://www.youtube.com/user/mdcdentaloficial1"><img src="images/youtube-logo.png" style="width: 45px"></a>
+	<a href="https://twitter.com/MDCDental_"><img src="images/twitter-logo.png" style="width: 45px"></a>
+		
+	</div>
+</div>
+<p style=" text-align: center; ">© 2017 Todos los derechos reservados | Desarrollado por <a href="//www.dental.com.mx">MDCdental</a></p>
+</body>
+</html>
